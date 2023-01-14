@@ -1,11 +1,5 @@
 import React from 'react'
 
-import DribbbleIcon from './icon-dribbble.png';
-import EmailIcon from './icon-email.png';
-import GithubIcon from './icon-github.png';
-import LinkedinIcon from './icon-linkedin.png';
-import TwitterIcon from './icon-twitter.png';
-
 export default function Contact() {
   return (
     <div className="block lg:flex lg:flex-row px-12 py-24">

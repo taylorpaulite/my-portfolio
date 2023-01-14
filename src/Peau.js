@@ -21,7 +21,7 @@ export default function Peau() {
                 <img src={PeauLogo} alt="peau-logo" className="max-h-80 pb-8 md:hidden"></img>
                 <div className="pb-8 pr-4">
                     <h4 className="text-base text-left font-medium text-neutral-800 dark:text-neutral-50 ">Problem</h4>
-                    <p className="text-base text-left font-regular text-neutral-600 dark:text-neutral-200">The typical process of shopping for makeup products has relied on in-person testing at brick-and-mortar stores. However, the growth of e-commerce and accessibility to international brands has created a difficult online shopping experience for <a target="_blank" href="https://www.kearney.com/consumer-retail/article/-/insights/beauty-and-the-e-commerce-beast-landing-page" className="hover:text-neutral-700 active:text-neutral-800 dark:hover:text-neutral-300 dark:active:text-neutral-400">91% of beauty consumers.</a></p>
+                    <p className="text-base text-left font-regular text-neutral-600 dark:text-neutral-200">The typical process of shopping for makeup products has relied on in-person testing at brick-and-mortar stores. However, the growth of e-commerce and accessibility to international brands has created a difficult online shopping experience for <a target="_blank" rel="noreferrer" href="https://www.kearney.com/consumer-retail/article/-/insights/beauty-and-the-e-commerce-beast-landing-page" className="hover:text-neutral-700 active:text-neutral-800 dark:hover:text-neutral-300 dark:active:text-neutral-400">91% of beauty consumers.</a></p>
                 </div>
                 <div className="pb-8 pr-4">
                     <h4 className="text-base text-left font-medium text-neutral-800 dark:text-neutral-50 ">Process</h4>
