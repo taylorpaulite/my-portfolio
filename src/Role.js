@@ -9,7 +9,7 @@ export default function Role({group, children}) {
                 <h3 className="text-base text-left font-medium text-neutral-800 dark:text-neutral-50">{group}</h3>
             </header>
             <div className="">
-                <ul className="font-base text-base text-neutral-600 dark:text-neutral-200 list-disc">
+                <ul className="font-base text-base text-neutral-600 dark:text-neutral-200 list-disc text-left">
                     {children}
                 </ul>
             </div>
