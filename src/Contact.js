@@ -2,9 +2,9 @@ import React from 'react'
 
 export default function Contact() {
   return (
-    <div className="flex px-12 py-48 justify-center">
-        <div className="max-w-lg">
-            <h1 className="text-5xl font-medium text-neutral-800 dark:text-neutral-50 text-center pb-4">Thanks for taking the time to reach out. 👋 <br/> <br/> Send me an email at<span className="text-lime-600"> taylor.paulite@gmail.com</span></h1>
+    <div className="flex px-12 min-h-screen">
+        <div className="max-w-lg text-center mx-auto my-auto">
+            <h1 className="text-3xl md:text-5xl font-medium text-neutral-800 dark:text-neutral-50 text-center pb-4">Thanks for taking the time to reach out. 👋 <br/> <br/> Send me an email at<span className="text-lime-600"> taylor.paulite@gmail.com</span></h1>
             <p className="text-center text-medium pb-8 text-neutral-600 dark:text-neutral-200">If you prefer direct messaging, feel free to say hello through the platforms below.</p>
         </div>
     </div>
